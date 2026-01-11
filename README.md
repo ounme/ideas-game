@@ -17,9 +17,12 @@
 ```
 
 **🌍 Available Languages:**
-[English](README.md) | [Русский](BELIVEME.md#beliveme) | [Deutsch](README-Deutsch.md) | [Français](README-Français.md) | [Español](README-Español.md) | [中文](README-中文.md) | [日本語](README-日本語.md) | [한국어](README-한국어.md) | [עברית](README-עברית.md)
 
+📖 **BELIVEME:** [English + Русский](BELIVEME.md) | [Deutsch](BELIVEME-Deutsch.md) | [Français](BELIVEME-Français.md) | [Español](BELIVEME-Español.md) | [中文](BELIVEME-中文.md) | [日本語](BELIVEME-日本語.md) | [한국어](BELIVEME-한국어.md) | [עברית](BELIVEME-עברית.md)
 
+📘 **README:** [English + Русский](README.md) | [Deutsch](README-Deutsch.md) | [Français](README-Français.md) | [Español](README-Español.md) | [中文](README-中文.md) | [日本語](README-日本語.md) | [한국어](README-한국어.md) | [עברית](README-עברית.md)
+
+🤝 **HELPME:** [English + Русский](HELPME.md) | [Deutsch](HELPME-Deutsch.md) | [Français](HELPME-Français.md) | [Español](HELPME-Español.md) | [中文](HELPME-中文.md) | [日本語](HELPME-日本語.md) | [한국어](HELPME-한국어.md) | [עברית](HELPME-עברית.md)
 ## Overview
 
 **ideasgame** models how ideas spread, transform, and shape communities. The engine combines:
