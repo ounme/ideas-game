@@ -1,8 +1,12 @@
+# ideas-game: README
+
+*Agent‑based simulation of idea propagation through personality psychology*
+
 ## 🗺️ Quick Navigation
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
-│                     BELIVEME                             │
+│                     ideas-game                           │
 │            Ideas Propagation Simulator                   │
 └─────────────────────────────────────────────────────────┘
 
@@ -13,8 +17,7 @@
 ```
 
 **🌍 Available Languages:**
-[English](README.md) | [Русский](README.md) (в самом низу)| [Deutsch](README-Deutsch.md) | [Français](README-Français.md) | [Español](README-Español.md) | [中文](README-中文.md) | [日本語](README-日本語.md) | [한국어](README-한국어.md) | [עברית](README-עברית.md)
-*Agent‑based simulation of idea propagation through personality psychology*
+[English](README.md) | [Русский](BELIVEME.md#beliveme) | [Deutsch](README-Deutsch.md) | [Français](README-Français.md) | [Español](README-Español.md) | [中文](README-中文.md) | [日本語](README-日本語.md) | [한국어](README-한국어.md) | [עברית](README-עברית.md)
 
 
 ## Overview
