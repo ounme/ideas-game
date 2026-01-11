@@ -5,7 +5,7 @@ from dataclasses import dataclass
 from typing import Dict, List, Any
 from typing import Dict, List, Any
 
-# Copyright (c) 2024 [Ваше Имя]
+# Copyright (c) 2024 Никита Панин
 # Dedicated to the glory of God
 # Licensed under MIT License
 
@@ -246,3 +246,4 @@ if __name__ == "__main__":
     for i, agent in enumerate(leaders, 1):
         print(f"{i}. Агент #{agent.id}: вес={agent.social_weight:.2f} "
               f"(O={agent.O:.1f}, C={agent.C:.1f}, E={agent.E:.1f})")
+
