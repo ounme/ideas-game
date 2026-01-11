@@ -1,4 +1,4 @@
-# ideas-game: README
+# ideas-game
 
 *Agent‑based simulation of idea propagation through personality psychology*
 
