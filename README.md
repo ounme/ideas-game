@@ -1,5 +1,62 @@
-# ideasgame: README
+┌─────────────────────────────────────────────────────────────────┐
+│                       ideas-game                                 │
+│              Ideas Propagation Simulator                         │
+│           Симулятор распространения идей                         │
+└─────────────────────────────────────────────────────────────────┘
 
+
+📚 DOCUMENTATION STRUCTURE / СТРУКТУРА ДОКУМЕНТАЦИИ
+═══════════════════════════════════════════════════════════
+
+┌──────────────┐
+│  START HERE  │  ← 🌍 Choose your language / Выберите язык
+│  НАЧНИТЕ ТУТ │
+└──────┬───────┘
+       │
+       ├─── 📖 BELIVEME.md ─────────────┐
+       │         ↓                       │
+       │    BELIVEME-Deutsch.md     🇩🇪  │  About Project
+       │    BELIVEME-Français.md    🇫🇷  │  О проекте
+       │    BELIVEME-Español.md     🇪🇸  │  What is it?
+       │    BELIVEME-中文.md         🇨🇳  │  Что это?
+       │    BELIVEME-日本語.md       🇯🇵  │
+       │    BELIVEME-한국어.md        🇰🇷  │
+       │    BELIVEME-עברית.md        🇮🇱  │
+       │                                 │
+       ├─── 📘 README.md ──────────────┐│
+       │         ↓                      ││
+       │    README-Deutsch.md      🇩🇪  ││  Technical Guide
+       │    README-Français.md     🇫🇷  ││  Техническое руководство
+       │    README-Español.md      🇪🇸  ││  How to use?
+       │    README-中文.md          🇨🇳  ││  Как использовать?
+       │    README-日本語.md        🇯🇵  ││
+       │    README-한국어.md         🇰🇷  ││
+       │    README-עברית.md         🇮🇱  ││
+       │                                ││
+       └─── 🤝 HELPME.md ──────────────┐││
+                ↓                      │││
+           HELPME-Deutsch.md      🇩🇪  │││  How to Contribute
+           HELPME-Français.md     🇫🇷  │││  Как помочь
+           HELPME-Español.md      🇪🇸  │││  Spiritual Guide
+           HELPME-中文.md          🇨🇳  │││  Духовное руководство
+           HELPME-日本語.md        🇯🇵  │││
+           HELPME-한국어.md         🇰🇷  │││
+           HELPME-עברית.md         🇮🇱  │││
+                                       │││
+                                       │││
+       ┌───────────────────────────────┘││
+       │   ┌───────────────────────────┘│
+       │   │   ┌───────────────────────┘
+       ↓   ↓   ↓
+    
+   💻 CODE / КОД
+   ═════════════
+   
+   main.py ────────────┐
+       │               │
+       ├─ class Idea   │  Core Components
+       ├─ class Agent  │  Основные компоненты
+       └─ class Community
 
 *Agent‑based simulation of idea propagation through personality psychology*
 
